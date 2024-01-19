@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-🔭 I am currently pursuing my Engineering Degree.<be> 👩🏻‍🎓 Bachelors in Computer Science <br> 🎓 Dr Mahalingam College of Engineering and Technology, Pollachi.<br> 
+🔭 I am currently pursuing my Engineering Degree.<be> 👩🏻‍🎓 Bachelors in Computer Science. <be> 🎓 Dr Mahalingam College of Engineering and Technology, Pollachi.<br> 
 
 
 ## 🌐 Socials:
